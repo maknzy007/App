@@ -1,0 +1,6 @@
+{
+  "name": "Play Market",
+  "description": "متجر تطبيقات عصري ومتكامل على غرار جوجل بلاي مع لوحة تحكم للمشرف لتنزيل وإدارة التطبيقات وتثبيتها تلقائياً ونظام تحديثات وإشعارات فورية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
